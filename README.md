@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Bacococc"
-  width="600"
+  width="100%"
   height="300"
 />
 </a>
