@@ -36,6 +36,15 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
 
 I’m passionate about leveraging **technology to solve global challenges** and eager to grow as a developer in **diverse, international environments**. 🚀💡
 
+## Currently learning 🛠️
+
+- **Languages**: JavaScript, Python, Java, HTML5, CSS3
+- **Frameworks & Libraries**: React.js, Node.js
+- **Database**: MySQL, Oracle
+- **Version Control**: Git, GitHub
+- **Containerization**: Docker (Used for Oracle DB setup on MacBook)
+
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Bacococc"
