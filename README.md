@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 # About Me 👩‍💻
 
-I am a **Computer Information student** who has explored both **front-end** and **back-end development** through various projects and learning experiences. I have worked with **React.js** and **Node.js** to build web applications and have experience using **MySQL** for database management. While still developing my technical skills, I enjoy **exploring new technologies** and continuously improving through **hands-on projects**. I am passionate about **learning new technologies** and tackling **real-world challenges**.
+I am a **Computer Information System student** with groing interset in both **front-end** and **back-end development**. Through various projects and learning experiences, I’ve had the opportunity to explore technologies like **React.js**, **Node.js**, and **MySQL**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
+
+I am a Computer Information Systems student with a growing interest in both front-end and back-end development. Through various projects and learning experiences, I’ve had the opportunity to explore technologies like React.js, Node.js, and MySQL. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
+
+I am passionate about learning new technologies and tackling real-world challenges. I am eager to continue growing as a developer and exploring real-world challenges.
 
 ## Global Experience 🌏
 
@@ -30,7 +34,7 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
   Studied **AI**, **machine learning**, and **deep learning**. Successfully collaborated on a **team project** and completed a **capstone assignment**.  
 
 - 🌎 **Global Exchange Program with 🇯🇵**  
-  Worked with **university students from Nagoya, Japan**, delivered **presentations in English** about , The impact of social media on us and developed **cross-cultural collaboration skills**.
+  Collaborated with **university students from Nagoya, Japan**, delivered **presentations in English** on topics like the impact of social media on society, and developed **cross-cultural collaboration skills**.
 
 ## My Vision 🌟
 
@@ -38,9 +42,10 @@ I’m passionate about leveraging **technology to solve global challenges** and 
 
 ## Currently learning 🛠️
 
-- **Languages**: JavaScript, Python, Java, HTML5, CSS3
-- **Frameworks & Libraries**: React.js, Node.js
+- **Languages**: Python, Java, JavaScript, HTML5, CSS3
+- **Frameworks & Libraries**: React.js, Node.js, Express.js
 - **Database**: MySQL, Oracle
+- **Tool & Utility** : Postman
 - **Version Control**: Git, GitHub
 - **Containerization**: Docker (Used for Oracle DB setup on MacBook)
 
