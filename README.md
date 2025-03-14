@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About Me 👩‍💻
 
-I am a **Computer Science student** who has explored both **front-end** and **back-end development** through various projects and learning experiences. I have worked with **React.js** and **Node.js** to build web applications and have experience using **MySQL** for database management. While still developing my technical skills, I enjoy **exploring new technologies** and continuously improving through **hands-on projects**. I am passionate about **learning new technologies** and tackling **real-world challenges**.
+I am a **Computer Information student** who has explored both **front-end** and **back-end development** through various projects and learning experiences. I have worked with **React.js** and **Node.js** to build web applications and have experience using **MySQL** for database management. While still developing my technical skills, I enjoy **exploring new technologies** and continuously improving through **hands-on projects**. I am passionate about **learning new technologies** and tackling **real-world challenges**.
 
 ## Global Experience 🌏
 
