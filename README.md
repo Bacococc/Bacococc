@@ -29,13 +29,12 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
 - 🇩🇪 **AI COSS Program @ Technische Hochschule Ulm (Ulm University of Applied Sciences, Germany)** - **1 month**  
   Studied **AI**, **machine learning**, and **deep learning**. Successfully collaborated on a **team project** and completed a **capstone assignment**.  
 
-- 🌎 **Global Exchange Program (Nagoya, Japan)**  
-  Worked with **international university students**, delivered **presentations in English**, and developed **cross-cultural collaboration skills**.
+- 🌎 **Global Exchange Program with 🇯🇵**  
+  Worked with **university students from Nagoya, Japan**, delivered **presentations in English** about , The impact of social media on us and developed **cross-cultural collaboration skills**.
 
 ## My Vision 🌟
 
-I’m passionate about leveraging **technology to solve global challenges** and eager to grow as a developer in **diverse, international environments**. 🚀  
-Let’s connect! 💡
+I’m passionate about leveraging **technology to solve global challenges** and eager to grow as a developer in **diverse, international environments**. 🚀💡
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
 <img
