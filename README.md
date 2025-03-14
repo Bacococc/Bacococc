@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About Me 👩‍💻
 
-I am a **Computer Information System student** with groing interset in both **front-end** and **back-end development**. Through various projects and learning experiences, I’ve had the opportunity to explore technologies like **React.js**, **Node.js**, and **MySQL**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
+I am a **Computer Information Systems student** with growing interset in both **front-end** and **back-end development**. Through various projects and learning experiences, I’ve had the opportunity to explore technologies like **React.js**, **Node.js**, and **MySQL**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
 
 I am **passionate about learning new technologies** and tackling **real-world challenges**. I am eager to continue growing as a developer and exploring real-world challenges.
 
