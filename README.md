@@ -43,7 +43,7 @@ I’m passionate about leveraging **technology to solve global challenges** and 
 - **Languages**: Python, Java, JavaScript, HTML5, CSS3
 - **Frameworks & Libraries**: React.js, Node.js, Express.js
 - **Database**: MySQL, Oracle
-- **Tool & Utility** : Postman
+- **Tool & Utility** : Linux, Postman
 - **Version Control**: Git, GitHub
 - **Containerization**: Docker (Used for Oracle DB setup on MacBook)
 
