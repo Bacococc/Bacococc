@@ -54,7 +54,7 @@ I’m passionate about leveraging **technology to solve global challenges** and 
 - **Containerization**: Docker (Used for Oracle DB setup on MacBook)
 
 ## Social 
-<a herf = "https://velog.io/@bacococc/posts">
+<a href = "https://velog.io/@bacococc/posts"> Veolg </a>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
 <img
