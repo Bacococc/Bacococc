@@ -37,7 +37,7 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
 - 🌎 **Global Exchange Program with 🇯🇵** - 2024 SEP 
   Collaborated with **university students from Nagoya, Japan**, delivered **presentations in English** on topics like the impact of social media on society, and developed **cross-cultural collaboration skills**.
 
-- 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation**
+- 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation** 2025 APR 3 ~ 
   
 
 ## My Vision 🌟
