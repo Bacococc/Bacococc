@@ -44,19 +44,11 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
 
 I’m passionate about leveraging **technology to solve global challenges** and eager to grow as a developer in **diverse, international environments**. 🚀💡
 
-## Currently learning 🛠️
-
-- **Languages**: Python, Java, JavaScript, HTML5, CSS3
-- **Frameworks & Libraries**: React.js, Node.js, Express.js
-- **Database**: MySQL, Oracle
-- **Tool & Utility** : Linux, Postman
-- **Version Control**: Git, GitHub
-- **Containerization**: Docker (Used for Oracle DB setup on MacBook)
 
 ## Social 
 <a href = "https://velog.io/@bacococc/posts"> Veolg </a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,java,js,ts,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,java,js,ts,react,figma,belnder&theme=light)](https://skillicons.dev)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
 <img
