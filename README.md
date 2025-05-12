@@ -48,6 +48,8 @@ I’m passionate about leveraging **technology to solve global challenges** and 
 ## Social 
 <a href = "https://velog.io/@bacococc/posts"> Veolg </a>
 
+## I’m currently learning ...
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,java,js,ts,react,figma,linux,blender&theme=light)](https://skillicons.dev)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
