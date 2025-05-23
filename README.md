@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 # About Me 👩‍💻
 
-I am a **Computer Information Systems student** with growing interset in **front-end**. <!-- Through various projects and learning experiences, I’ve had the opportunity to explore technologies like **React.js**, **Node.js**, and **MySQL**. --> While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
+I am a **Computer Information Systems student** with growing interset in **front-end**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
 
-I am **passionate about learning new technologies** and tackling **real-world challenges**. I am eager to continue growing as a developer and exploring real-world challenges.
+I am **passionate about learning new technologies** and tackling **real-world challenges**. I am eager to continue growing as a developer
 
 ## Global Experience 🌏
 
@@ -43,7 +43,6 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
 ## My Vision 🌟
 
 I’m passionate about leveraging **technology to solve global challenges** and eager to grow as a developer in **diverse, international environments**. 🚀💡
-
 
 ## Social 
 <a href = "https://velog.io/@bacococc/posts"> Veolg </a>
