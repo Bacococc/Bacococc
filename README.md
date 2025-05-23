@@ -22,7 +22,7 @@ I am a **Computer Information Systems student** with growing interset in **front
 
 I am **passionate about learning new technologies** and tackling **real-world challenges**. I am eager to continue growing as a developer
 
-## Global Experience 🌏
+## Experience 🌏
 
 Beyond coding, I’ve actively participated in **global exchange programs**:
 
@@ -37,7 +37,8 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
 - 🌎 **Global Exchange Program with 🇯🇵** - 2024 SEP 
   Collaborated with **university students from Nagoya, Japan**, delivered **presentations in English** on topics like the impact of social media on society, and developed **cross-cultural collaboration skills**.
 
-- 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation** 2025 APR 3 ~ 
+- 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation** 2025 APR 3 ~
+Participated as a supporter of Shinhan Bank, planning and executing online/offline events to promote its youth app. Gained practical skills in event planning, digital marketing, and teamwork in a corporate setting.
 
 - 🇯🇵 **Participation in Generative AI Hackathon in Japan** – 2025 APR 22 ~ 
 Participated in the Generative AI × Social Issues Hackathon organized by WAKE Career, focusing on addressing societal challenges through generative AI. Collaborated with a team of female engineers to develop innovative AI solutions. Took charge of the overall UI design and contributed to frontend development.
