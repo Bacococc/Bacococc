@@ -38,7 +38,9 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
   Collaborated with **university students from Nagoya, Japan**, delivered **presentations in English** on topics like the impact of social media on society, and developed **cross-cultural collaboration skills**.
 
 - 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation** 2025 APR 3 ~ 
-  
+
+- 🇯🇵 **Participation in Generative AI Hackathon in Japan** – 2025 APR 22 ~ 
+Participated in the Generative AI × Social Issues Hackathon organized by WAKE Career, focusing on addressing societal challenges through generative AI. Collaborated with a team of female engineers to develop innovative AI solutions. Took charge of the overall UI design and contributed to frontend development.
 
 ## My Vision 🌟
 
