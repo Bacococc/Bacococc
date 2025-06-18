@@ -50,6 +50,8 @@ I’m passionate about leveraging **technology to solve global challenges** and 
 ## Social 
 <a href = "https://velog.io/@bacococc/posts"> Veolg </a>
 
+<!-- ![Bacoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bacococc&show_icons=true) -->
+
  ## I’m currently learning ...
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,figma,linux,blender&theme=light)](https://skillicons.dev) 
