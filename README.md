@@ -28,19 +28,17 @@ Beyond coding, I’ve actively participated in **global exchange programs**:
 
 - 🌍 **U.S. Public High School Exchange Student** - 2021 DEC ~ 2022 DEC
   Adapted to a new environment, improved English communication, and gained valuable international experience.  
-
-- 🇩🇪 **AI COSS Program @ Technische Hochschule Ulm (Ulm University of Applied Sciences, Germany)** - 2025 FEB (1 month)  
-  Studied **AI**, **machine learning**, and **deep learning**. Successfully collaborated on a **team project** and completed a **capstone assignment**.
    
-- 🤖 **AI COSS Summer Capstone camp** 2024 JUL 15 ~ JUL 19
-
 - 🌎 **Global Exchange Program with 🇯🇵** - 2024 SEP 
   Collaborated with **university students from Nagoya, Japan**, delivered **presentations in English** on topics like the impact of social media on society, and developed **cross-cultural collaboration skills**.
 
-- 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation** 2025 APR 3 ~
+- 🇩🇪 **AI COSS Program @ Technische Hochschule Ulm (Ulm University of Applied Sciences, Germany)** - 2025 FEB (1 month)  
+  Studied **AI**, **machine learning**, and **deep learning**. Successfully collaborated on a **team project** and completed a **capstone assignment**.
+
+- 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation** 2025 APR 3 ~ JULY
 Participated as a supporter of Shinhan Bank, planning and executing online/offline events to promote its youth app. Gained practical skills in event planning, digital marketing, and teamwork in a corporate setting.
 
-- 🇯🇵 **Participation in Generative AI Hackathon in Japan** – 2025 APR 22 ~ 
+- 🇯🇵 **Participation in Generative AI Hackathon in Japan** – 2025 APR 22 ~ MAY
 Participated in the Generative AI × Social Issues Hackathon organized by WAKE Career, focusing on addressing societal challenges through generative AI. Collaborated with a team of female engineers to develop innovative AI solutions. Took charge of the overall UI design and contributed to frontend development.
 
 ## My Vision 🌟
