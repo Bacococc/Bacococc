@@ -41,6 +41,8 @@ Participated as a supporter of Shinhan Bank, planning and executing online/offli
 - 🇯🇵 **Participation in Generative AI Hackathon in Japan** – 2025 APR 22 ~ MAY
 Participated in the Generative AI × Social Issues Hackathon organized by WAKE Career, focusing on addressing societal challenges through generative AI. Collaborated with a team of female engineers to develop innovative AI solutions. Took charge of the overall UI design and contributed to frontend development.
 
+- 🤖 **2025 AI CO-SHOW AIM Challenge** - 2025 JUL 29 ~ SEP 11
+
 ## My Vision 🌟
 
 I’m passionate about leveraging **technology to solve global challenges** and eager to grow as a developer in **diverse, international environments**. 🚀💡
