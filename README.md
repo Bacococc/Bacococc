@@ -35,13 +35,16 @@ Beyond coding, I’ve actively participated in **challenging programs**:
 - 🇩🇪 **AI COSS Program @ Technische Hochschule Ulm (Ulm University of Applied Sciences, Germany)** - 2025 FEB (1 month)  
   Studied **AI**, **machine learning**, and **deep learning**. Successfully collaborated on a **team project** and completed a **capstone assignment**.
 
-- 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation** 2025 APR 3 ~ JULY
+- 🏦 **Shinhan Bank Hey Young Supporters – 2nd Generation** - 2025 APR 3 ~ JULY
 Participated as a supporter of Shinhan Bank, planning and executing online/offline events to promote its youth app. Gained practical skills in event planning, digital marketing, and teamwork in a corporate setting.
 
 - 🇯🇵 **Participation in Generative AI Hackathon in Japan** – 2025 APR 22 ~ MAY
 Participated in the Generative AI × Social Issues Hackathon organized by WAKE Career, focusing on addressing societal challenges through generative AI. Collaborated with a team of female engineers to develop innovative AI solutions. Took charge of the overall UI design and contributed to frontend development.
 
+- 🎏 **Global AI Talent Development Overseas Training Program in Osaka, Japan** - 2025 AUG 4 ~ AUG 29
+
 - 🤖 **2025 AI CO-SHOW AIM Challenge** - 2025 JUL 29 ~ SEP 11
+
 
 ## My Vision 🌟
 
