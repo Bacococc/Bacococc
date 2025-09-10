@@ -24,7 +24,7 @@ I am **passionate about learning new technologies** and tackling **real-world ch
 
 ## Experience 🌏
 
-Beyond coding, I’ve actively participated in **global exchange programs**:
+Beyond coding, I’ve actively participated in **challenging programs**:
 
 - 🌍 **U.S. Public High School Exchange Student** - 2021 DEC ~ 2022 DEC
   Adapted to a new environment, improved English communication, and gained valuable international experience.  
