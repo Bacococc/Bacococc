@@ -1,28 +1,19 @@
-name: Waka Readme
-
+name: Update gist with WakaTime stats
 on:
+  push:
+    branches:
+      - master
   schedule:
-    - cron: '30 18 * * *' # 매일 12am IST
-  workflow_dispatch:
-
+    - cron: "0 0 * * *"
 jobs:
-  update-readme:
+  update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Update Readme with Waka Stats
-        uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: matchai/waka-box@master
+        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LANGUAGE: true          # 언어만 표시
-          SHOW_PROJECTS: false         # 프로젝트 숨김
-          SHOW_EDITORS: false          # 에디터 숨김
-          SHOW_TIMEZONE: false         # 타임존 숨김
-          SHOW_TOTAL_CODE_TIME: false  # 총 시간 숨김
-          SHOW_LINES_OF_CODE: false    # LOC 숨김
-          SHOW_OS: false               # OS 숨김
-          SHOW_PROFILE_VIEWS: false    # 프로필 뷰 숨김
-          SHOW_SHORT_INFO: false       # 간단 정보 숨김
-          SHOW_UPDATED_DATE: false     # 마지막 업데이트 숨김
+          GIST_ID: ${{ secrets.GIST_ID }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIMEZONE: Asia/Seoul
