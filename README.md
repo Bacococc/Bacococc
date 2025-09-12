@@ -59,6 +59,9 @@ I’m passionate about leveraging **technology to solve global challenges** and 
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,figma,blender&theme=light)](https://skillicons.dev) 
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Bacococc"
