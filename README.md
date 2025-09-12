@@ -59,74 +59,8 @@ I’m passionate about leveraging **technology to solve global challenges** and 
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,figma,blender&theme=light)](https://skillicons.dev) 
 
- <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 687 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-🌆 Daytime                219 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-🌃 Evening                356 commits         ███████████░░░░░░░░░░░░░░   44.22 % 
-🌙 Night                  95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Tuesday                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Wednesday                127 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Thursday                 168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Friday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 170 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Sunday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 29 mins       ████████████████░░░░░░░░░   64.78 % 
-Other                    1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-
-💻 Operating System: 
-Mac                      8 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
-JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Bacococc/Bacococc/main/assets/bar_graph.png)
-
-
- Last Updated on 12/09/2025 12:00:42 UTC
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
