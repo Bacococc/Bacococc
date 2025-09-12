@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 --> 
 
-# About Me 👩‍💻
+## About Me 👩‍💻
 
 I am a **Computer Information Systems student** with growing interset in **front-end**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
 
@@ -58,6 +58,8 @@ I’m passionate about leveraging **technology to solve global challenges** and 
  ## I’m currently learning ...
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,figma,blender&theme=light)](https://skillicons.dev) 
+
+ ![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?Bacococc=anuraghazra&show_icons=true&theme=transparent)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bacococc&utm_content=farm">
 <img
