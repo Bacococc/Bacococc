@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am a **Computer Information Systems student** with growing interset in **front-end**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
 
 I am **passionate about learning new technologies** and tackling **real-world challenges**. I am eager to continue growing as a developer
-
+<!--
 ## Experience 🌏
 
 Beyond coding, I’ve actively participated in **challenging programs**:
@@ -44,7 +44,7 @@ Participated in the Generative AI × Social Issues Hackathon organized by WAKE C
 - 🎏 **Global AI Talent Development Overseas Training Program in Osaka, Japan** - 2025 AUG 4 ~ AUG 29
 
 - 🤖 **2025 AI CO-SHOW AIM Challenge** - 2025 JUL 29 ~ SEP 11
-
+-->
 
 ## My Vision 🌟
 
