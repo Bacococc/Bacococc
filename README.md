@@ -50,7 +50,7 @@ Participated in the Generative AI × Social Issues Hackathon organized by WAKE C
 
  ## I’m currently learning ...
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,figma,blender&theme=light)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,nest,figma,blender&theme=light)](https://skillicons.dev) 
 
 
 <!--START_SECTION:waka-->
