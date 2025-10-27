@@ -44,14 +44,9 @@ Participated in the Generative AI × Social Issues Hackathon organized by WAKE C
 - 🤖 **2025 AI CO-SHOW AIM Challenge** - 2025 JUL 29 ~ SEP 11
 -->
 
-## My Vision 🌟
-
-I’m passionate about leveraging **technology to solve global challenges** and eager to grow as a developer in **diverse, international environments**. 🚀💡
-
-## Social 
+<!-- ![Bacoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bacococc&show_icons=true) 
 <a href = "https://velog.io/@bacococc/posts"> Veolg </a>
-
-<!-- ![Bacoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bacococc&show_icons=true) -->
+-->
 
  ## I’m currently learning ...
 
