@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a **Computer Information Systems student** with growing interset in **front-end**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
 
-I am **passionate about learning new technologies** and tackling **real-world challenges**. I am eager to continue growing as a developer
+<!-- I am **passionate about learning new technologies** and tackling **real-world challenges**. I am eager to continue growing as a developer -->
 <!--
 ## Experience 🌏
 
