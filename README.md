@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 --> 
 
-<!-- # Hello, I'm Hyojin Park ᜊ( ᜊ ´ ˘) ੭
+# Hello, I'm Hyojin Park ᜊ( ᜊ ´ ˘) ੭
 
 I am a **Computer Information Systems student** with growing interset in **front-end**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
 
