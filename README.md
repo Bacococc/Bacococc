@@ -22,7 +22,7 @@ I am a **Computer Information Systems student** with growing interset in **front
 
 ## Technologies & Tools ଘ(੭˃ᴗ˂)━☆ﾟ.*･｡ﾟ
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,nest,figma,blender,photoshop&theme=light)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,nest,mysql,docker,nginx,aws,figma,blender,photoshop&theme=light)](https://skillicons.dev) 
 
 ---
 
