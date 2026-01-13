@@ -30,9 +30,11 @@ I am a **Computer Information Systems student** with growing interset in **front
 
 [🏍️ Dutchy pay - Global campus mate](#)
 
-[🗒️ Yellow Memo](#)
+[🌿 GACHIMURA](#)
 
-[📚 YJU Korean education center - renewal](#)
+[📖 YJU Korean education center - renewal](#)
+
+[🗒️ Yellow Memo](#)
 
 ---
 
