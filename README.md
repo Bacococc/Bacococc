@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---> 
+
 
 # Hello, I'm Hyojin Park ᜊ( ᜊ ´ ˘) ੭
 
@@ -51,3 +51,5 @@ I am a **Computer Information Systems student** with growing interset in **front
   height="300"
 />
 </a> 
+
+--> 
