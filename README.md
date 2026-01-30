@@ -1,27 +1,26 @@
-<!--
-**Bacococc/Bacococc**is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
 # Hello, I'm Hyojin Park ᜊ( ᜊ ´ ˘) ੭
 
-I am a **Computer Information Systems student** with growing interset in **front-end**. While I am still in the process of developing my technical skills, I enjoy experimenting with new technologies and learning through hands-on projects.
+### 🎓 I’m an AI & Software major student at Yeungjin College
+
+
+🎐 **Working Values**  
+Product-centric development  
+Problem framing & product decision-making & communicating ideas  
+Collaboration & iterative improvement  
+
+🎧 **Outside of Work**  
+Going to concerts 🎶  
+Collecting gacha-gacha & plushies ˆ⁰ˆ  
+Karaoke enthusiast 🎤  
+Traveling the world 🗺️  
+Big fan of King Gnu 🐃
+
 
 ---
 
 ## Technologies & Tools ଘ(੭˃ᴗ˂)━☆ﾟ.*･｡ﾟ
 
+ 
  [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,nest,mysql,docker,nginx,aws,figma,blender,photoshop&theme=light)](https://skillicons.dev) 
 
 ---
@@ -51,5 +50,3 @@ I am a **Computer Information Systems student** with growing interset in **front
   height="300"
 />
 </a> 
-
---> 
