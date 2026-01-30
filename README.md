@@ -21,7 +21,7 @@ Big fan of King Gnu 🐃
 ## Technologies & Tools ଘ(੭˃ᴗ˂)━☆ﾟ.*･｡ﾟ
 
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,nest,mysql,docker,nginx,aws,figma,blender,photoshop&theme=light)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,ts,react,next,nest,mysql,docker,nginx,aws,firebase,figma,blender&theme=light)](https://skillicons.dev) 
 
 ---
 
