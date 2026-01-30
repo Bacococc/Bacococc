@@ -8,10 +8,10 @@
 - Collaboration & iterative improvement  
 
 ### 🎧 Outside of Work  
-- Going to concerts 🎶  
+- Traveling the world 🗺️
+- Enjoying long walks 🚶‍♀️  
 - Collecting gacha-gacha & plushies ˆ⁰ˆ  
 - Karaoke enthusiast 🎤  
-- Traveling the world 🗺️  
 - Big fan of King Gnu 🐃
 
 
