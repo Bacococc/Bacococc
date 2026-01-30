@@ -2,18 +2,17 @@
 
 ### 🎓 I’m an AI & Software major student at Yeungjin College
 
+### 🎐 Working Values  
+- Product-centric development  
+- Problem framing & product decision-making & communicating ideas  
+- Collaboration & iterative improvement  
 
-🎐 **Working Values**  
-Product-centric development  
-Problem framing & product decision-making & communicating ideas  
-Collaboration & iterative improvement  
-
-🎧 **Outside of Work**  
-Going to concerts 🎶  
-Collecting gacha-gacha & plushies ˆ⁰ˆ  
-Karaoke enthusiast 🎤  
-Traveling the world 🗺️  
-Big fan of King Gnu 🐃
+### 🎧 Outside of Work  
+- Going to concerts 🎶  
+- Collecting gacha-gacha & plushies ˆ⁰ˆ  
+- Karaoke enthusiast 🎤  
+- Traveling the world 🗺️  
+- Big fan of King Gnu 🐃
 
 
 ---
