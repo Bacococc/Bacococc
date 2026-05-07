@@ -31,7 +31,7 @@
 [🏍️ Dutchy pay - Global campus mate](https://github.com/babgroup/Dutchpay)
 
 [📖 YJU Korean education center - renewal](https://github.com/WhileNotSuccess/project_Korean-Education-Center-Frontend_NextJS-deployment-repo)   
-   [→ Go to YJU Korean education center](https://kcenter.yju.ac.kr/)
+→   [ Go to YJU Korean education center](https://kcenter.yju.ac.kr/)
 
 [🗒️ Yellow Memo](https://github.com/Greenora/project-YellowMemo)
 
